@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: NetworkSecurity
 Version: 0.0.1
 Author: Harsh Jain
@@ -9,6 +9,3 @@ Requires-Dist: numpy
 Requires-Dist: scikit-learn
 Requires-Dist: pymongo
 Requires-Dist: certifi
-Dynamic: author
-Dynamic: author-email
-Dynamic: requires-dist
