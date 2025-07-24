@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ML Krish Naik/MLProject3/MLFlow-Experiments/mlruns/975139105177021581/e7eec0fd42764a29aa0d93ed9e568a5f/artifacts
+end_time: 1753337604477
+entry_point_name: ''
+experiment_id: '975139105177021581'
+lifecycle_stage: active
+run_id: e7eec0fd42764a29aa0d93ed9e568a5f
+run_name: gentle-lynx-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753337600830
+status: 3
+tags: []
+user_id: Harsh Jain

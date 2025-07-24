@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ML Krish Naik/MLProject3/MLFlow-Experiments/mlruns/975139105177021581/models/m-691182f279ae4e5fa7a2397b9c26982e/artifacts
+creation_timestamp: 1753337600934
+experiment_id: '975139105177021581'
+last_updated_timestamp: 1753337604460
+model_id: m-691182f279ae4e5fa7a2397b9c26982e
+model_type: null
+name: model
+source_run_id: e7eec0fd42764a29aa0d93ed9e568a5f
+status: 2
+status_message: null

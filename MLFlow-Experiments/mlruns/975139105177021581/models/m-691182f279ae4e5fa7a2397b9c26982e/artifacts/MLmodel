@@ -1,0 +1,22 @@
+artifact_path: file:///D:/ML Krish Naik/MLProject3/MLFlow-Experiments/mlruns/975139105177021581/models/m-691182f279ae4e5fa7a2397b9c26982e/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-691182f279ae4e5fa7a2397b9c26982e
+model_size_bytes: 13499359
+model_uuid: m-691182f279ae4e5fa7a2397b9c26982e
+prompts: null
+run_id: e7eec0fd42764a29aa0d93ed9e568a5f
+utc_time_created: '2025-07-24 06:13:20.978768'
